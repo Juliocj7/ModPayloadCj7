@@ -24,18 +24,9 @@
 
 
 ## Menú Principal :
-![16a](https://user-images.githubusercontent.com/81049859/162635576-4314019a-aa7e-42f0-aceb-1d03d13b45eb.png)
 
 
-## Checker :
-![16b](https://user-images.githubusercontent.com/81049859/162635593-e83917d0-19d3-4d94-aebd-8b942ae013ff.png)
-
-
-## Extrapolador :
-![16c](https://user-images.githubusercontent.com/81049859/162635606-409c0765-6562-4c66-bc34-d9b1cfcfca04.png)
-
-
-## CheckCj7 :
+## PayloadCj7 :
 * Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
 * **Extrapola CC** para alargar el tiempo de vida del BIN, genera tu propio BIN privado.
 * Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
@@ -61,15 +52,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `gem install lolcat`
 
-* `apt install pv`
+* `git clone https://github.com/Juliocj7/PayloadCj7`
 
-* `git clone https://github.com/Juliocj7/CheckCj7`
-
-* `cd CheckCj7`
+* `cd PayloadCj7`
 
 * `chmod +x *`
 
-* `./CheckCj7`
+* `./PayloadCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
