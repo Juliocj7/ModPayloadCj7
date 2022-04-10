@@ -27,10 +27,9 @@
 
 
 ## PayloadCj7 :
-* Genera **tarjetas de crédito** y verifica el estado de las mismas usando un checker para saber si la CC está LIVE.
-* **Extrapola CC** para alargar el tiempo de vida del BIN, genera tu propio BIN privado.
-* Esta herramienta realiza un **pequeño cargo** a la tarjeta, para así marcarla como LIVE (viva) o DIE (muerta).
-* Con Lives puedes realizar **suscripciones** a plataformas de streaming y muy probablemente en compras físicas.
+* Modifica tu **payload** generado con msfvenom, para así camuflarlo y lograr una mejor ingeniería social.
+* Agrega un **icono** personalizado.
+* **Firma** tu aplicación y hacerla pasar como legítima.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖TrollScript᭖᭕ᬁ⍣ `
 
@@ -42,15 +41,7 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `termux-setup-storage`
-
 * `apt update && apt upgrade -y`
-
-* `apt install ncurses-utils -y`
-
-* `pkg install -y git`
-
-* `gem install lolcat`
 
 * `git clone https://github.com/Juliocj7/PayloadCj7`
 
