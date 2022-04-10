@@ -30,7 +30,7 @@
 ## PayloadCj7 :
 * Modifica tu **payload** generado con msfvenom, para así camuflarlo y lograr una mejor ingeniería social.
 * Agrega un **icono** personalizado.
-* **Firma** tu aplicación y hacerla pasar como legítima.
+* **Firma** tu aplicación para hacerla pasar como legítima.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖TrollScript᭖᭕ᬁ⍣ `
 
