@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20220410-151946_Termux](https://user-images.githubusercontent.com/81049859/162636556-6b807340-02b9-4348-b768-6d5cc5379a55.png)
+![Screenshot_20220516-181723_Termux](https://user-images.githubusercontent.com/81049859/168691800-54418252-9c9c-480b-9826-0d041977961e.png)
+
 
 
 ## PayloadCj7 :
