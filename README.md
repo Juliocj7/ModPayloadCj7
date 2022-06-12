@@ -26,7 +26,7 @@
 
 ## ModPayloadCj7 :
 * Modifica tu **payload** generado con metasploit u otro framework, para así camuflarlo y lograr una excelente ingeniería social.
-* Agrega un **icono** personalizado.
+* Agrega un **icono** y un **nombre** personalizado.
 * **Firma** tu aplicación para hacerla pasar como legítima.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
