@@ -24,8 +24,8 @@
 ## Menú Principal :
 ![Screenshot_20220523-162706_Termux](https://user-images.githubusercontent.com/81049859/169900507-85810025-6052-499a-876d-7266bb7cb3de.png)
 
-## PayloadCj7 :
-* Modifica tu **payload** generado con msfvenom, para así camuflarlo y lograr una mejor ingeniería social.
+## ModPayloadCj7 :
+* Modifica tu **payload** generado con metasploit u otro framework, para así camuflarlo y lograr una excelente ingeniería social.
 * Agrega un **icono** personalizado.
 * **Firma** tu aplicación para hacerla pasar como legítima.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
@@ -42,13 +42,13 @@ https://github.com/Juliocj7/UtilsCj7
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* `git clone https://github.com/Juliocj7/PayloadCj7`
+* `git clone https://github.com/Juliocj7/ModPayloadCj7`
 
 * `cd PayloadCj7`
 
 * `chmod +x *`
 
-* `./PayloadCj7`
+* `./ModPayloadCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
