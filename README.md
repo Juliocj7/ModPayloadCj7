@@ -44,7 +44,7 @@ https://github.com/Juliocj7/UtilsCj7
 ```
 * `git clone https://github.com/Juliocj7/ModPayloadCj7`
 
-* `cd PayloadCj7`
+* `cd ModPayloadCj7`
 
 * `chmod +x *`
 
