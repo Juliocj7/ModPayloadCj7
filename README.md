@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220523-162706_Termux](https://user-images.githubusercontent.com/81049859/169900507-85810025-6052-499a-876d-7266bb7cb3de.png)
+![Screenshot_20221228-232741_Termux](https://user-images.githubusercontent.com/81049859/209901076-fdc037bd-9b79-4ad2-99f7-1ec0ea907845.png)
 
 ## ModPayloadCj7 :
 * Modifica tu **payload** generado con metasploit u otro framework, para así camuflarlo y lograr una excelente ingeniería social.
