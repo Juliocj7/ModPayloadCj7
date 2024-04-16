@@ -47,8 +47,7 @@ ______________________________________________________
 
 ## ModPayloadCj7 :
 * Modifica tu **payload** generado con metasploit u otro framework, para así camuflarlo y lograr una excelente ingeniería social.
-* Agrega un **icono** y un **nombre** personalizado.
-* **Firma** tu aplicación para hacerla pasar como legítima.
+* Agrega un **icono**, un **nombre** personalizado y **fírma** correctamente tu aplicación para hacerla pasar como legítima.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -56,17 +55,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/ModPayloadCj7`
-
-* `cd ModPayloadCj7`
-
-* `chmod +x *`
-
-* `./ModPayloadCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/ModPayloadCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd ModPayloadCj7 && chmod +x * && ./ModPayloadCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
