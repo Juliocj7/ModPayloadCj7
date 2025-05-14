@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328502](https://github.com/Juliocj7/ModPayloadCj7/assets/81049859/35edb2c6-d893-4fec-abc5-e8ddde09224f)
+[![1000328502](https://github.com/user-attachments/assets/1ca37e7b-4da2-4dbf-97e1-8c51fa49adc7)](#---)
 
 ## ModPayloadCj7 :
 * Modifica tu **payload** generado con metasploit u otro framework, para así camuflarlo y lograr una excelente ingeniería social.
